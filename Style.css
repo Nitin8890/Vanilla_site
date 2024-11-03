@@ -1,0 +1,35 @@
+.image{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+.heading{
+ text-align: center;
+ color: #000B58;
+}
+.para{
+    text-align: center;
+    
+}
+.imagebox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.main-container{
+    width: 100%;
+    height: 100vh;
+    background-color: #B9E5E8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second-container{
+    background-color: #f1f3f5 ;
+    height: 600px;
+    width: 600px;
+    border: 2px;
+    border-color: black;
+    border-radius: 10px;
+}
